@@ -39,28 +39,28 @@ reddit-share: True
 events:
   - image: "/img/career/onpu.jpg"
     date: "1986 - 1991"
-    description: "B.Sc. Odessa Polytechnic University, Mechanical Engineering"
+    description: "Odessa Polytechnic University, Mechanical Engineering"
   - image: "/img/career/technion.png"
     date: "1991-2003"
     description: "B.Sc., M.Sc. Ph.D. (Cum Laude) Technion - Israel Institute of Technology"
   - image: "/img/career/eth.jpg"
     date: "2003-2006"
     description: "Postdoc at Institute of Hydromechanics, ETH Zurich"
-  - image: "/img/career/tau.gif"
+  - image: "/img/career/tau.jpg"
     date: "2006 - Today"
     description: "Senior Lecturer (tenured 2010), Associate Professor (2011), School of Mechanical Engineering, Tel Aviv University"
+  - image: "/img/career/lab1.jpg"
+    date: "2006 - Today"
+    description: "Head of Research Laboratory"
   - image: "/img/career/openpiv.png"
     date: "1998 - Today"
     description: "Open Source Particle Image Velocimetry, leading developer"
   - image: "/img/career/openptv.png"
     date: "2005 - Today"
     description: "Open Source Particle Tracking Velocimetry"
-  - image: "/img/career/lab.jpg"
-    date: "2006 - Today"
-    description: "Head of Research Laboratory"
 
 # First image of the Career timeline
-career-img: "/img/career/default.jpg"
+career-img: "/img/career/lab.jpg"
 
 # Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
 social:
