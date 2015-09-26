@@ -3,9 +3,9 @@
 url: "http://alexlib.github.io/personal-jekyll-theme"
 title: "{ Alex Liberzon }"
 description: "Alex Liberzon"
-keywords: "keywords"
-favicon: "/img/favicon.ico"
-black-favicon: "/img/black-lab-glass.ico"
+keywords: "research, turbulence, turbulent, velocimetry, particle"
+favicon: "/img/white-graduation-cap.ico"
+black-favicon: "/img/white-graduation-cap.ico"
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
@@ -13,8 +13,8 @@ black-favicon: "/img/black-lab-glass.ico"
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
   Career: 'career'
+  Publications: 'publications'
   Contact: 'contact'
 
 background-img: "/img/background.jpg"
@@ -51,13 +51,13 @@ events:
     description: "Senior Lecturer (tenured 2010), Associate Professor (2011), School of Mechanical Engineering, Tel Aviv University"
   - image: "/img/career/lab1.jpg"
     date: "2006 - Today"
-    description: "Head of Research Laboratory"
+    description: "Head of a research laboratory <a href='http://www.eng.tau.ac.il/~tsl'>laboratory</a>"
   - image: "/img/career/openpiv.png"
     date: "1998 - Today"
-    description: "Open Source Particle Image Velocimetry, leading developer"
+    description: "Open Source Particle Image Velocimetry, leading developer <a href='http://www.openpiv.net'>openpiv.net</a>"
   - image: "/img/career/openptv.png"
     date: "2005 - Today"
-    description: "Open Source Particle Tracking Velocimetry"
+    description: "Open Source Particle Tracking Velocimetry <a href='http://www.openptv.net'>openptv.net</a>"
 
 # First image of the Career timeline
 career-img: "/img/career/lab.jpg"
