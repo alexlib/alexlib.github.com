@@ -1,13 +1,13 @@
 # Site settings
 
-url: "http://panossakkos.github.io"
-title: "{ Panos Sakkos }"
-description: "Blog and website of Panos Sakkos, blogging mainly for tech. Opinions expressed are mine."
-keywords: "panos, sakkos, panos sakkos, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft"
+url: "http://alexlib.github.io"
+title: "{ Alex Liberzon }"
+description: "Alex Liberzon"
+keywords: "keywords"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
-google-tracking-id: "UA-35880426-3"
-disqus-shortname: "panossakkos"
+google-tracking-id: False
+disqus-shortname: "alexlib"
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
@@ -66,13 +66,11 @@ social:
   - title: "rss"
     url: "/feed.xml"
   - title: "github"
-    url: "https://github.com/PanosSakkos"
+    url: "https://github.com/alexlib"
   - title: "linkedin"
-    url: "http://no.linkedin.com/in/PanosSakkos"
+    url: "http://no.linkedin.com/il/AlexLiberzon"
   - title: "youtube"
-    url: "http://youtube.com/c/PanosSakkos"
-  - title: "soundcloud"
-    url: "https://soundcloud.com/psakkos/"
+    url: "http://youtube.com/a/alex2lib"
 
 404-img: "/img/labtocat.png"
 
