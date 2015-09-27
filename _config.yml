@@ -6,6 +6,7 @@ description: "Alex Liberzon"
 keywords: "research, turbulence, turbulent, velocimetry, particle"
 favicon: "/img/white-graduation-cap.ico"
 black-favicon: "/img/white-graduation-cap.ico"
+author: Alex Liberzon
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
@@ -48,10 +49,10 @@ events:
     description: "Postdoc at Institute of Hydromechanics, ETH Zurich"
   - image: "/img/career/tau.jpg"
     date: "2006 - Today"
-    description: "Senior Lecturer (tenured 2010), Associate Professor (2011), School of Mechanical Engineering, Tel Aviv University"
+    description: "Senior Lecturer (tenured 2010), Associate Professor (2011), School of Mechanical Engineering, Tel Aviv University <a href='http://engineering.tau.ac.il'>engineering.tau.ac.il</a>"
   - image: "/img/career/lab1.jpg"
     date: "2006 - Today"
-    description: "Head of a research laboratory <a href='http://www.eng.tau.ac.il/~tsl'>laboratory</a>"
+    description: "Head of an experimental <a href='http://www.eng.tau.ac.il/~tsl'>research laboratory</a>"
   - image: "/img/career/openpiv.png"
     date: "1998 - Today"
     description: "Open Source Particle Image Velocimetry, leading developer <a href='http://www.openpiv.net'>openpiv.net</a>"
