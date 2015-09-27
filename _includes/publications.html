@@ -1,0 +1,61 @@
+<!-- Publications Section -->
+<section id="{{ page.title }}" class="container content-section text-center">
+    <div class="row" align="left">
+        <!-- div class="col-lg-8 col-lg-offset-2"-->
+
+          {{ page.content | markdownify }}
+
+          <style>
+          bibtex { display: none; }
+          #bibtex_errors { margin-top:10px; color: red;}
+          </style>
+        </head>
+      <body>
+
+      <input type="text" class="bibtex_search" list="suggests">
+      <button type="submit" class="bibtex_print">Save</button>
+
+      <datalist id="suggests">
+          <option value="@author=">
+          <option value="@title=">
+          <option value="@year=">
+          <option value="@journal=">
+      </datalist>
+
+      <div id="bibtex_errors"></div>
+      <h1> Rendered Publications</h1>
+
+      <div class="bibtex_topics"> </div>
+
+      <div class="bibtex_structure">
+        <div class="group year" extra="ASC number">
+            <div class="templates"></div>
+        </div>
+      </div>
+
+          <div id="bibtex_display">
+
+            <div class="bibtex_template">
+              <ul> <li>
+                <span class="if title">
+                  <a class="url">
+                      <span class="title"></span>,
+                  </a>
+                </span>
+                <div class="if author">
+                  <span class="author"></span>
+                </div>
+                <div>
+                  <span class="if journal"><em><span class="journal"></span></em></span>
+                  <span class="if month"><span class="month"></span>,</span>
+                  <span class="if year"><span class="year"></span>.</span>
+                </div>
+              </li></ul>
+            </div>
+
+          </div>
+
+
+        </div>
+    </div>
+</section>
