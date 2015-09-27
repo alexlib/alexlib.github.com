@@ -1,7 +1,7 @@
 # Site settings
 
-url: "http://alexlib.github.io/personal-jekyll-theme/"
-title: "{ Alex Liberzon }"
+url: "http://alexlib.github.io"
+title: " Alex Liberzon "
 description: "Alex Liberzon"
 keywords: "research, turbulence, turbulent, velocimetry, particle"
 favicon: "/img/white-graduation-cap.ico"
